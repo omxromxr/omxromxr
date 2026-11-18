@@ -22,7 +22,7 @@ The person who says it cannot be done should not interrupt the person who is doi
 
 [Navi. this project  is a browser(kinda) i made](https://github.com/humanglobalist/navi-browser)
 
-[CoE. a project to unite humanity.](https://github.io/humanglobalist/citizenofearth)
+[CoE. a project to unite humanity.](https://github.com/humanglobalist/citizenofearth)
 
 <a href="https://github.com/">
   <img src="https://www.reddit.com/r/hopeposting/comments/1ncg108/billions_must_hope/" width="300">
