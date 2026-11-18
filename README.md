@@ -2,7 +2,7 @@
 
 <img src="N.Tesla.JPG" width="200"> <img src="images (2).jpeg" width="200"> <img src="Teslathinker.jpg" width="200"> <img src="images (3).jpeg" width="200">
 
-## Quotes youll need
+## Quotes you'll need
 Fall seven times and stand up eight. –Japanese Proverb
 
 When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life. –John Lennon
@@ -18,7 +18,7 @@ The person who says it cannot be done should not interrupt the person who is doi
 
 ## known as kiwi on the internet. tho that only applies if i am known. which i am not(make me famous)
 
-### these are my favourit projects on my main account(this is only my school accont):
+### these are my account projects on my main account(this is only my school account):
 
 [Navi. this project  is a browser(kinda) i made](https://github.com/humanglobalist/navi-browser)
 
@@ -35,18 +35,4 @@ The person who says it cannot be done should not interrupt the person who is doi
 
 ## wanna see more of me and what i do? go to [humanglobalist](https://github.com/humanglobalist) or [My Noiz account](https://noiz.bio/kiwihtml)
 
-
-<!--
-**omxromxr/omxromxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i actually made a joke, its bad, but its a joke: why do communists love minesweeper? because they get to place down red flags
