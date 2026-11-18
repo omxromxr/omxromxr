@@ -17,8 +17,7 @@
 ### most of the time, i dont give a fuck. do what the fuck you want to public license.
 #### if any of my projects are unlicensed and have been unlicensed for months, it means anyone can use them. i really dont give a fuck.
 
-
-
+## wanna see more of me and what i do? go to [humanglobalist](github.com/humanglobalist) or [My Noiz account](noiz.bio/kiwihtml)
 
 
 <!--
