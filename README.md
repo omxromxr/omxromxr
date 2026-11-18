@@ -1,6 +1,6 @@
 # you dont understand. i need more knowledge. im literally nikolas tesla.
 
-<img src="N.Tesla.JPG" width="225"> <img src="images (2).jpeg" width="225"> <img src="Teslathinker.jpg" width="225">
+<img src="N.Tesla.JPG" width="225"> <img src="images (2).jpeg" width="225"> <img src="Teslathinker.jpg" width="225"> <img src="Nikola_Tesla,_with_his_equipment_Wellcome_M0014782.jpg" width="225">
 
 ## Quotes youll need
 Fall seven times and stand up eight. –Japanese Proverb
