@@ -1,3 +1,17 @@
+# you dont understand. i need more knowledge.
+
+## Quotes youll need
+Fall seven times and stand up eight. –Japanese Proverb
+
+When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life. –John Lennon
+
+There is only one way to avoid criticism: do nothing, say nothing, and be nothing. –Aristotle
+
+The best time to plant a tree was 20 years ago. The second best time is now. –Chinese Proverb
+
+The person who says it cannot be done should not interrupt the person who is doing it. –Chinese Proverb
+
+
 # Hi there 👋
 
 ## known as kiwi on the internet. tho that only applies if i am known. which i am not(make me famous)
