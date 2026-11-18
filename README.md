@@ -26,7 +26,7 @@ The person who says it cannot be done should not interrupt the person who is doi
 
 <a href="https://github.com/">
   <img src="https://www.reddit.com/r/hopeposting/comments/1ncg108/billions_must_hope/" width="300">
-  <img src="https://raw.githubusercontent.co/omxromxr/omxromxr/main/love-harmony.gif" width="300">
+  <img src="https://raw.githubusercontent.com/omxromxr/omxromxr/main/love-harmony.gif" width="300">
   <img src="uni-earth.png" width="300">
 </a>
 
