@@ -10,7 +10,7 @@
 
 <a href="https://github.com/">
   <img src="https://www.reddit.com/r/hopeposting/comments/1ncg108/billions_must_hope/" width="300">
-  <img src="https://tenor.com/view/love-harmony-billions-must-gif-6567280163054619369" width="300">
+  <img src="love-harmony.gif" width="300">
   <img src="uni-earth.png" width="300">
 </a>
 
